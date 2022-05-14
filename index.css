@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+marquee{
+    color: blue;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.first{
+    background-color: rgb(229, 240, 236);
+    margin: 20px;
+    padding: 50px;
+    position: absolute;
+
+}
+
+.div1{
+    background-position: 10px;
+    background-color: rgb(80, 169, 204);
+}
